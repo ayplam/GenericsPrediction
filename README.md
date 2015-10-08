@@ -1,7 +1,5 @@
 # GenericsPrediction
-Predict brand-to-generic conversion times as well as generic release frequency
-
-There are four parts to this project:
+The goal of this project is to predict brand-to-generic conversion times, generic drug release frequency and yearly patterns in generic drug releases. There are four parts to this project:
 
 1. Data Munging
 While the FDA database has a collection of all current generic name drugs on the market, it still needs cleaning. 
